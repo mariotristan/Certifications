@@ -8,3 +8,16 @@ Resources to prepare for certifications
 
 ## AWS
 * Cloud Practitioner
+
+https://www.aws.training/Details/Curriculum?id=11276 
+
+ 
+
+Despues con:
+https://www.aws.training/Details/Curriculum?id=10743 
+
+ 
+
+Al final este:
+
+https://www.aws.training/Details/Curriculum?id=27076
