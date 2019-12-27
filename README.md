@@ -7,5 +7,8 @@ Resources to prepare for certifications
 
 
 ## AWS
-* :white_check_mark: [Cloud Practitioner](/AWS/CloudPractitioner.md) (Certified)
+* :white_check_mark: [Cloud Practitioner](/AWS/CloudPractitioner.md) 
+
+
+![alt text](https://github.com/mariotristan/Certifications/blob/master/AWS/awscertfied.png?raw=true)
 
