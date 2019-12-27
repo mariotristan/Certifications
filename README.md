@@ -2,10 +2,10 @@
 Resources to prepare for certifications
 
 ## Azure
-* [AZ-400: Implementing DevOps Development Processes](/Azure/AZ400.md)
+* :black_square_button: [AZ-400: Implementing DevOps Development Processes](/Azure/AZ400.md)
 
 
 
 ## AWS
-* [Cloud Practitioner](/AWS/CloudPractitioner.md)
+* :white_check_mark: [Cloud Practitioner](/AWS/CloudPractitioner.md) (Certified)
 
